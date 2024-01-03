@@ -1,6 +1,4 @@
-# command-line-directory
-
-## Simple Shell for Linux
+# Simple Shell for Linux
 
 ## Overview
 This project required us to design and implement a C program serving as a shell for Linux. The shell accepts user commands, executes each command in a separate process, and provides a history feature to access recently entered commands.
